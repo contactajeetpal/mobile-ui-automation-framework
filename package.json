@@ -1,0 +1,25 @@
+{
+  "name": "qa-cross-platform",
+  "version": "1.0.0",
+  "description": "Cross-platform UI testing with Playwright (web) and Appium (mobile)",
+  "main": "index.js",
+  "scripts": {
+  "test:web": "cucumber-js --require support/world.js --require support/hooks.js --require playwright-web/steps --tags @web features",
+  "test:mobile": "cucumber-js --require support/world.js --require support/hooks.js --require appium-mobile/steps --tags @mobile features"
+  },
+  "keywords": [
+    "qa",
+    "playwright",
+    "appium",
+    "cucumber",
+    "cross-platform"
+  ],
+  "author": "ajeetpal",
+  "license": "ISC",
+  "dependencies": {
+    "@cucumber/cucumber": "^8.11.1",
+    "playwright": "^1.54.1",
+    "wd": "^1.12.1",
+    "webdriverio": "^9.17.0"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "capabilities": {
+    "alwaysMatch": {
+      "platformName": "Android",
+      "appium:automationName": "UiAutomator2",
+      "appium:deviceName": "127.0.0.1:6555",
+      "appium:appPackage": "com.zappycode.logindemo",
+      "appium:appActivity": "com.example.logindemo.MainActivity",
+      "appium:noReset": true
+    },
+    "firstMatch": [{}]
+  }
+}
