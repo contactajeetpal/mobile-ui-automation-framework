@@ -1,7 +1,8 @@
 # mobile-ui-automation-framework
-#Word File for All Questions: [_Final View Assessment  for - QA Web & Mobile.docx]
-#-------------------------------Video-------------------------#
-(https://github.com/user-attachments/files/21204110/_Final.View.Assessment.for.-.QA.Web.Mobile.docx)
+#Word File for All Questions: 
+[_Final View Assessment  for - QA Web & Mobile.docx](https://github.com/user-attachments/files/21204121/_Final.View.Assessment.for.-.QA.Web.Mobile.docx)
+
+
 #Full working video link: https://www.loom.com/share/1c7c28eabf0040cd91613fe63fc21472?sid=f0025039-aaa7-4d1c-acbc-83c7d2846781
 
 
